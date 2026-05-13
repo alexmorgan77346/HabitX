@@ -2,7 +2,7 @@
   "name": "HabitX",
   "short_name": "HabitX",
   "description": "Track habits, build streaks. Simple and fast.",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0c0c0f",
