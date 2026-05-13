@@ -1,8 +1,8 @@
-const CACHE_NAME = 'habitx-v1';
+const CACHE_NAME = 'habitx-v2';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
+  './',
+  './index.html',
+  './manifest.json',
   'https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;500;600;700&display=swap'
 ];
 
