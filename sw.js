@@ -1,9 +1,10 @@
-const CACHE_NAME = 'habitx-v3';
+const CACHE_NAME = 'habitx-v4';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  'https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;500;600;700&display=swap'
+  './icons/icon-192.png',
+   './icons/icon-512.png', 'https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;500;600;700&display=swap'
 ];
 
 self.addEventListener('install', e => {
