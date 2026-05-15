@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#0c0c0f" id="themeColorMeta">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="HabitX">
 <meta name="description" content="HabitX – Track habits, build streaks.">
 <link rel="manifest" href="manifest.json">
@@ -1486,10 +1486,14 @@ function showToast(msg) {
   toastTimer = setTimeout(() => t.classList.remove('show'), 2000);
 }
 
-// ── SERVICE WORKER ────────────────────────────────────────────────────────────
+
+</script>
+<script>
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('sw.js').catch(() => {});
+    navigator.serviceWorker.register('./sw.js')
+      .then(() => console.log('SW registered'))
+      .catch(err => console.log('SW failed', err));
   });
 }
 </script>
