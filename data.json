@@ -1,0 +1,544 @@
+{
+  "atomicHabits": [
+    {
+      "part": "Introduction",
+      "color": "#a78bfa",
+      "cls": "intro-card",
+      "tag": "Intro",
+      "chapters": [
+        {
+  "num": "Intro",
+  "title": "My Story",
+  "subtitle": "A life-changing baseball injury taught James Clear the transformative power of tiny habits and gradual improvement. Small daily actions helped rebuild confidence, health, identity, and long-term success.",
+  "quote": "\"Changes that seem small and unimportant at first will compound into remarkable results if you are willing to stick with them consistently for years.\"",
+  "ideas": [
+    "Tiny improvements create powerful long-term transformation",
+    "Recovery and growth happen through consistent small actions",
+    "Habits are the compound interest of self-improvement",
+    "Daily routines shape future identity and outcomes",
+    "Consistency matters more than dramatic change",
+    "Small wins build confidence and momentum",
+    "Progress often feels invisible during the early stages",
+    "Discipline grows through repeated behaviour",
+    "Long-term success is built on ordinary daily actions",
+    "Personal transformation begins with small behavioural shifts",
+    "Setbacks can become opportunities for reinvention",
+    "Identity changes gradually through repeated action",
+    "Success emerges from systems rather than motivation alone",
+    "Tiny habits reduce resistance to improvement",
+    "Continuous improvement compounds over time"
+  ]
+}
+      ]
+    },
+    {
+      "part": "Part 1 — The Fundamentals: Why Tiny Changes Make a Big Difference",
+      "color": "#a78bfa",
+      "cls": "intro-card",
+      "tag": "Fundamentals",
+      "chapters": [
+        {
+  "num": "Ch 1",
+  "title": "The Surprising Power of Atomic Habits",
+  "subtitle": "Tiny improvements often feel insignificant in the present moment, but when repeated consistently they compound into extraordinary long-term results. Small daily habits quietly shape success, failure, identity, and future outcomes over time.",
+  "quote": "\"Success is the product of daily habits—not once-in-a-lifetime transformations. What you repeatedly do every day ultimately shapes the person you become.\"",
+  "ideas": [
+    "Small habits create massive transformation through compounding effects",
+    "1% improvements repeated daily lead to exponential long-term growth",
+    "Bad habits also compound slowly and create hidden damage over time",
+    "Results are often delayed because habits work beneath the surface first",
+    "The Plateau of Latent Potential explains why progress feels invisible initially",
+    "People quit too early because they expect immediate visible results",
+    "Goals set direction, but systems are what actually create progress",
+    "Winning and losing often depend on daily routines rather than ambition",
+    "Focus on building systems instead of obsessing over outcomes",
+    "Tiny habits reduce resistance and are easier to maintain consistently",
+    "Consistency matters more than intensity in long-term growth",
+    "Your current habits are perfectly designed for your current results",
+    "Habits are the invisible architecture shaping everyday life",
+    "Every action pushes you toward a better or worse future identity",
+    "Long-term success comes from ordinary actions repeated consistently"
+  ]
+},
+      {
+  "num": "Ch 2",
+  "title": "How Habits Shape Your Identity (and Vice Versa)",
+  "subtitle": "Lasting behaviour change begins with identity change. The most effective habits are built not around what you want to achieve, but around the type of person you believe yourself to be.",
+  "quote": "\"Every action you take is a vote for the type of person you wish to become. Repeated behaviours slowly shape identity and self-belief.\"",
+  "ideas": [
+    "Behaviour change has three layers: outcomes, processes, and identity",
+    "Identity-based habits are more sustainable than outcome-based habits",
+    "Real transformation begins when self-image changes",
+    "Every repeated action reinforces a certain identity",
+    "Habits provide evidence for who you believe you are",
+    "Small wins strengthen confidence and self-trust",
+    "The goal is not to run a marathon but to become a runner",
+    "Lasting habits emerge when behaviour aligns with identity",
+    "Negative identities often trap people in destructive patterns",
+    "Repeated behaviours shape self-confidence over time",
+    "You become what you repeatedly do",
+    "Internal belief creates stronger motivation than external rewards",
+    "Identity change requires repeated proof through action",
+    "Pride in identity increases consistency and discipline",
+    "The most powerful motivation is acting in alignment with self-image"
+  ]
+},
+       {
+  "num": "Ch 3",
+  "title": "How to Build Better Habits in 4 Simple Steps",
+  "subtitle": "Every habit follows a neurological loop of cue, craving, response, and reward. Understanding this feedback cycle allows you to consciously build good habits and break bad ones.",
+  "quote": "\"A habit is a behaviour repeated enough times to become automatic, allowing the brain to conserve effort and energy.\"",
+  "ideas": [
+    "All habits follow the cycle: cue → craving → response → reward",
+    "Cues trigger the brain to notice opportunities for reward",
+    "Cravings provide the motivational force behind habits",
+    "Responses are the actual behaviours performed",
+    "Rewards satisfy cravings and reinforce future repetition",
+    "Habits exist because the brain seeks efficient solutions",
+    "Repeated actions become increasingly automatic over time",
+    "The brain constantly predicts outcomes from environmental cues",
+    "Good and bad habits operate using the same behavioural loop",
+    "Rewards teach the brain which behaviours are worth remembering",
+    "Habits reduce mental effort and decision-making fatigue",
+    "Understanding the habit loop gives control over behaviour change",
+    "Behaviour becomes automatic through repetition, not intention",
+    "Cravings are emotional drivers attached to behavioural expectations",
+    "Mastering the habit loop helps redesign lifestyle patterns"
+  ]
+}
+      ]
+    },
+    {
+      "part": "Part 2 — The 1st Law: Make It Obvious",
+      "color": "#3ddc84",
+      "cls": "law1-card",
+      "tag": "1st Law",
+      "chapters": [
+        {
+  "num": "Ch 4",
+  "title": "The Man Who Didn't Look Right",
+  "subtitle": "Habits become deeply automatic through repetition, causing people to perform behaviours without conscious awareness. Recognising and observing these unconscious patterns is the first step toward meaningful behavioural change.",
+  "quote": "\"The process of behaviour change always starts with awareness. You cannot improve a habit that you fail to notice.\"",
+  "ideas": [
+    "Repeated behaviours eventually become automatic routines",
+    "The brain automates familiar actions to conserve energy",
+    "Many daily habits happen without conscious thinking",
+    "Awareness is the foundation of self-improvement",
+    "Bad habits often operate below conscious attention",
+    "The Habits Scorecard helps identify positive and negative routines",
+    "Observing behaviour objectively reduces emotional judgement",
+    "Mindfulness interrupts unconscious behavioural patterns",
+    "Recognition creates opportunities for intentional change",
+    "Behaviour tracking exposes hidden triggers and routines",
+    "People often underestimate how automatic their habits are",
+    "Self-awareness increases behavioural control",
+    "Automatic habits shape daily life more than occasional decisions",
+    "Naming behaviours helps reveal patterns clearly",
+    "Awareness transforms unconscious actions into conscious choices"
+  ]
+
+        },
+        {
+  "num": "Ch 5",
+  "title": "The Best Way to Start a New Habit",
+  "subtitle": "Clear planning dramatically increases the chances of habit success. Defining when and where a habit will happen removes uncertainty and makes action easier and more automatic.",
+  "quote": "\"People who make a specific plan for when and where they will perform a new habit are far more likely to follow through.\"",
+  "ideas": [
+    "Vague intentions lead to inconsistent behaviour",
+    "Implementation intentions reduce decision-making fatigue",
+    "Specific plans make habits easier to execute",
+    "Defining time and location strengthens habit consistency",
+    "Habit stacking links new habits with existing routines",
+    "Existing behaviours can serve as reliable triggers",
+    "Routines become stronger when connected together",
+    "Consistency of context accelerates automatic behaviour",
+    "Predictable cues improve habit reliability",
+    "Small routines gradually reshape lifestyle patterns",
+    "The brain associates behaviours with specific environments",
+    "Habit stacking reduces resistance to starting new habits",
+    "Simple structure improves long-term consistency",
+    "Repeated actions in stable contexts become automatic faster",
+    "Clear environmental cues increase behavioural follow-through"
+  ]
+},
+       {
+  "num": "Ch 6",
+  "title": "Motivation Is Overrated; Environment Often Matters More",
+  "subtitle": "Environment shapes behaviour more powerfully than motivation. Designing surroundings intentionally can make good habits easier and bad habits harder without relying on willpower alone.",
+  "quote": "\"Environment is the invisible hand that shapes human behaviour and influences countless decisions every day.\"",
+  "ideas": [
+    "Environment strongly influences daily behaviour patterns",
+    "Visible cues trigger habits automatically",
+    "Motivation is temporary but environment remains constant",
+    "Good habits become easier in supportive environments",
+    "Bad habits become harder when cues are removed",
+    "Design spaces that encourage desired actions",
+    "Friction determines how likely behaviour is to occur",
+    "Simple environmental adjustments create major behavioural shifts",
+    "Context often matters more than self-discipline",
+    "People naturally follow the path of least resistance",
+    "Visual cues increase habit frequency",
+    "Environment can silently shape identity and routines",
+    "Removing temptation is easier than resisting temptation",
+    "Optimised spaces reduce the need for willpower",
+    "Behaviour changes faster when surroundings support the goal"
+  ]
+},
+        {
+  "num": "Ch 7",
+  "title": "The Secret to Self-Control",
+  "subtitle": "Self-control is not about resisting temptation constantly. The most disciplined people avoid temptation altogether by designing environments that minimise exposure to bad habits.",
+  "quote": "\"Disciplined people are better at structuring their lives in ways that reduce the need for willpower.\"",
+  "ideas": [
+    "Willpower is unreliable over long periods of time",
+    "Self-control works best as a short-term strategy",
+    "Environment design is more effective than constant resistance",
+    "Removing cues weakens bad habits significantly",
+    "Temptation becomes stronger with repeated exposure",
+    "Disciplined people reduce opportunities for bad behaviour",
+    "Good environments reduce mental exhaustion",
+    "Avoiding temptation is easier than fighting temptation",
+    "Habit cues trigger cravings automatically",
+    "Reducing visibility decreases habit frequency",
+    "Behaviour improves when distractions are eliminated",
+    "The easiest way to break a bad habit is to avoid triggers",
+    "Environmental control supports long-term discipline",
+    "Successful people structure life around desired behaviour",
+    "Self-control becomes easier when temptation disappears"
+  ]
+}
+      ]
+    },
+    {
+      "part": "Part 3 — The 2nd Law: Make It Attractive",
+      "color": "#ffd166",
+      "cls": "law2-card",
+      "tag": "2nd Law",
+      "chapters": [
+       {
+  "num": "Ch 8",
+  "title": "How to Make a Habit Irresistible",
+  "subtitle": "Habits become stronger when they are emotionally attractive. The brain is naturally drawn toward pleasurable experiences, and increasing anticipation can dramatically improve motivation.",
+  "quote": "\"The more attractive an opportunity becomes, the more likely it is to become habit-forming and repeated consistently.\"",
+  "ideas": [
+    "Dopamine drives anticipation and motivation",
+    "The brain responds strongly to expected rewards",
+    "Habits become easier when associated with pleasure",
+    "Temptation bundling pairs enjoyable activities with productive ones",
+    "Positive emotions increase consistency",
+    "Reward anticipation motivates action more than reward itself",
+    "Attractive environments encourage better behaviour",
+    "Enjoyable routines are easier to repeat daily",
+    "The brain repeats behaviours linked with satisfaction",
+    "Making habits fun reduces resistance",
+    "Pleasure strengthens behavioural repetition",
+    "Social rewards can make habits more appealing",
+    "Excitement increases engagement and follow-through",
+    "Good habits compete against highly stimulating distractions",
+    "Emotional attraction strengthens long-term discipline"
+  ]
+},
+        {
+  "num": "Ch 9",
+  "title": "The Role of Family and Friends in Shaping Your Habits",
+  "subtitle": "Human behaviour is heavily influenced by social groups. People naturally imitate the habits, beliefs, and behaviours of those around them in order to belong and feel accepted.",
+  "quote": "\"We imitate the habits of three groups in particular: the close, the many, and the powerful.\"",
+  "ideas": [
+    "Social environments strongly shape behaviour",
+    "Humans naturally imitate people around them",
+    "Belonging is a powerful source of motivation",
+    "Cultural norms influence daily habits and routines",
+    "Habits feel easier when they are socially accepted",
+    "Friends and family shape standards of normal behaviour",
+    "Communities reinforce identity and consistency",
+    "People seek approval from groups they value",
+    "Joining positive groups accelerates behavioural growth",
+    "Social pressure can support or damage habits",
+    "Surroundings influence ambitions and expectations",
+    "People often copy successful individuals unconsciously",
+    "Shared identity strengthens accountability",
+    "The desire for belonging often outweighs logic",
+    "Good social circles increase sustainable improvement"
+  ]
+},
+        {
+  "num": "Ch 10",
+  "title": "How to Find and Fix the Causes of Your Bad Habits",
+  "subtitle": "Cravings are often rooted in deeper emotional desires and needs. Reframing how you think about habits can make positive behaviours feel more rewarding and meaningful.",
+  "quote": "\"Every action is preceded by a prediction, and our behaviour depends heavily on how we interpret the events around us.\"",
+  "ideas": [
+    "Cravings are symptoms of deeper human desires",
+    "Habits often attempt to solve emotional needs",
+    "Mindset strongly affects behavioural motivation",
+    "Reframing changes emotional perception of habits",
+    "Positive language increases habit attractiveness",
+    "\"I get to\" creates more motivation than \"I have to\"",
+    "Perspective shapes behavioural willingness",
+    "Emotional interpretation influences action",
+    "Motivation rituals prepare the mind for difficult tasks",
+    "Good habits become easier when connected to purpose",
+    "Stress and emotion often trigger bad habits",
+    "Behaviour is driven by expected emotional outcomes",
+    "Changing thought patterns changes behavioural responses",
+    "Internal narratives shape discipline and consistency",
+    "Reframing transforms obligation into opportunity"
+  ]
+}
+      ]
+    },
+    {
+      "part": "Part 4 — The 3rd Law: Make It Easy",
+      "color": "#ff6b6b",
+      "cls": "law3-card",
+      "tag": "3rd Law",
+      "chapters": [
+        {
+  "num": "Ch 11",
+  "title": "Walk Slowly, but Never Backward",
+  "subtitle": "Real progress comes from taking action repeatedly rather than endlessly preparing or planning. Habits are built through consistent practice, not through perfect strategies or intentions alone.",
+  "quote": "\"The most effective form of learning is practice, not planning. Action creates results while overthinking delays progress.\"",
+  "ideas": [
+    "Motion creates the feeling of progress without producing outcomes",
+    "Action is the behaviour that actually delivers results",
+    "Planning can become a form of procrastination",
+    "Habits are formed through repetition and experience",
+    "Consistency matters more than perfection",
+    "The brain strengthens habits through repeated execution",
+    "Taking action creates feedback and improvement",
+    "Experience teaches faster than theory alone",
+    "Small repeated actions eventually become automatic",
+    "Frequency of repetition matters more than duration",
+    "Progress requires engagement, not endless preparation",
+    "Starting imperfectly is better than delaying perfectly",
+    "Action reduces fear and uncertainty over time",
+    "Practice rewires behavioural patterns in the brain",
+    "Momentum grows naturally once behaviour becomes consistent"
+  ]
+},
+       {
+  "num": "Ch 12",
+  "title": "The Law of Least Effort",
+  "subtitle": "Humans naturally gravitate toward behaviours that require the least amount of effort. Reducing friction for good habits and increasing friction for bad habits makes behaviour change significantly easier.",
+  "quote": "\"The less friction you face while performing a habit, the more likely you are to repeat it consistently.\"",
+  "ideas": [
+    "People naturally choose easier options",
+    "Reducing friction increases habit consistency",
+    "Good habits should require minimal effort to start",
+    "Bad habits become weaker when effort increases",
+    "Environment design can simplify desired behaviour",
+    "Preparation reduces resistance to action",
+    "Convenience strongly influences decision-making",
+    "Small obstacles can discourage unwanted behaviour",
+    "Automation eliminates unnecessary effort",
+    "Optimised systems make discipline easier",
+    "Energy conservation influences behavioural choices",
+    "Removing steps increases behavioural follow-through",
+    "Simple systems outperform complicated routines",
+    "Preparing in advance improves consistency",
+    "Behaviour change succeeds when actions become easy to repeat"
+  ]
+},
+       {
+  "num": "Ch 13",
+  "title": "How to Stop Procrastinating by Using the Two-Minute Rule",
+  "subtitle": "The easiest way to build a new habit is by reducing it to a version that takes less than two minutes. Small beginnings lower resistance and make consistency easier to maintain.",
+  "quote": "\"A new habit should not feel overwhelming. The first two minutes should be simple enough that you can begin without hesitation.\"",
+  "ideas": [
+    "Small habits reduce psychological resistance",
+    "The Two-Minute Rule makes starting easier",
+    "Consistency is more important than intensity",
+    "Showing up daily builds identity and momentum",
+    "Tiny actions establish behavioural consistency",
+    "Easy habits create entry points for bigger routines",
+    "Starting is often the hardest part of behaviour",
+    "Simple beginnings reduce procrastination",
+    "Repetition matters more than scale initially",
+    "Habits should feel achievable and manageable",
+    "Small wins build confidence and motivation",
+    "Behaviour grows naturally after consistency develops",
+    "Mastering the beginning strengthens long-term discipline",
+    "Standardise behaviour before attempting optimisation",
+    "Tiny actions repeated daily eventually create major transformation"
+  ]
+},
+       {
+  "num": "Ch 14",
+  "title": "How to Make Good Habits Inevitable and Bad Habits Impossible",
+  "subtitle": "Commitment devices and one-time decisions can lock future behaviour into place. Structuring systems carefully removes temptation and makes positive actions more automatic.",
+  "quote": "\"The best way to break a bad habit is to make it impractical, inconvenient, or impossible to perform consistently.\"",
+  "ideas": [
+    "Commitment devices shape future decisions",
+    "One-time choices can automate long-term behaviour",
+    "Automation reduces dependence on motivation",
+    "Technology can support good habits effectively",
+    "Increasing difficulty weakens bad habits",
+    "Removing access reduces temptation significantly",
+    "Systems create consistency more reliably than willpower",
+    "Environment structure influences future choices",
+    "Pre-commitment prevents impulsive behaviour",
+    "Financial or social consequences increase accountability",
+    "Automation simplifies habit maintenance",
+    "Behaviour becomes easier when decisions are reduced",
+    "Future actions improve through present preparation",
+    "Good systems make success more predictable",
+    "Restricting bad options supports long-term discipline"
+  ]
+}
+      ]
+    },
+    {
+      "part": "Part 5 — The 4th Law: Make It Satisfying",
+      "color": "#60a5fa",
+      "cls": "law4-card",
+      "tag": "4th Law",
+      "chapters": [
+        {
+  "num": "Ch 15",
+  "title": "The Cardinal Rule of Behaviour Change",
+  "subtitle": "Behaviours that are immediately rewarding are more likely to be repeated. The human brain prioritises short-term satisfaction, making immediate reinforcement essential for habit formation.",
+  "quote": "\"What is immediately rewarded gets repeated. What is immediately punished gets avoided by the brain.\"",
+  "ideas": [
+    "Immediate rewards strengthen habit repetition",
+    "The brain prioritises short-term pleasure over long-term benefits",
+    "Good habits often suffer because rewards are delayed",
+    "Bad habits feel attractive because rewards are immediate",
+    "Positive reinforcement accelerates behaviour formation",
+    "Small rewards help maintain long-term consistency",
+    "Enjoyable routines are easier to sustain daily",
+    "Tracking progress creates emotional satisfaction",
+    "Reward closes the behavioural feedback loop",
+    "Immediate pleasure strongly influences future decisions",
+    "Humans evolved to value instant outcomes",
+    "Visible progress increases motivation and discipline",
+    "Satisfying habits become easier to repeat automatically",
+    "Delayed consequences weaken behavioural urgency",
+    "Creating rewarding systems improves consistency"
+  ]
+},
+       {
+  "num": "Ch 16",
+  "title": "How to Stick with Good Habits Every Day",
+  "subtitle": "Habit tracking provides visual proof of progress and reinforces consistency. Maintaining streaks creates momentum while recovering quickly from mistakes prevents negative patterns from forming.",
+  "quote": "\"Never miss twice. Missing once is an accident, but repeating it can become the beginning of a new negative habit.\"",
+  "ideas": [
+    "Habit tracking increases self-awareness",
+    "Visible progress motivates repeated action",
+    "Streaks create psychological momentum",
+    "Tracking behaviour reinforces consistency",
+    "Measurement improves discipline and focus",
+    "Daily wins strengthen self-confidence",
+    "Progress visualisation creates emotional satisfaction",
+    "Consistency builds trust in yourself",
+    "Missing one day is normal and recoverable",
+    "Never missing twice prevents downward spirals",
+    "Simple tracking systems improve long-term adherence",
+    "Accountability increases follow-through",
+    "Tracking turns invisible growth into visible evidence",
+    "Habit streaks create motivation through momentum",
+    "Consistent recovery matters more than perfect performance"
+  ]
+},
+        {
+  "num": "Ch 17",
+  "title": "How an Accountability Partner Can Change Everything",
+  "subtitle": "Social accountability increases commitment by attaching immediate consequences to behaviour. People are more likely to follow through when others are aware of their goals and actions.",
+  "quote": "\"We care deeply about what others think of us, and social expectations can strongly influence our behaviour and discipline.\"",
+  "ideas": [
+    "Accountability increases behavioural consistency",
+    "People work harder when observed by others",
+    "Social consequences influence decision-making",
+    "Habit contracts create external pressure for discipline",
+    "Commitment becomes stronger when shared publicly",
+    "Supportive accountability improves long-term consistency",
+    "Fear of embarrassment can prevent bad habits",
+    "External expectations reinforce internal motivation",
+    "Partners can provide reminders and encouragement",
+    "Social systems increase behavioural reliability",
+    "Consequences attached to failure increase follow-through",
+    "Humans naturally seek approval and respect",
+    "Shared goals improve persistence during difficulty",
+    "External accountability strengthens self-control",
+    "Supportive relationships accelerate positive behavioural change"
+  ]
+}
+      ]
+    },
+    {
+      "part": "Advanced Tactics",
+      "color": "#e8ff47",
+      "cls": "adv-card",
+      "tag": "Advanced",
+      "chapters": [
+        {
+  "num": "Ch 18",
+  "title": "The Truth About Talent (When Genes Matter and When They Don't)",
+  "subtitle": "Genes influence natural abilities and preferences, but success depends on choosing habits and environments that align with personal strengths. The best habits are the ones that fit your natural tendencies.",
+  "quote": "\"Genes do not determine your destiny. They determine your areas of opportunity where consistent effort can create the greatest advantage.\"",
+  "ideas": [
+    "Genetics influence personality, behaviour, and natural strengths",
+    "People perform better when habits align with natural abilities",
+    "Success becomes easier when working with personal tendencies",
+    "Choosing the right environment increases chances of growth",
+    "Habits should match interests and personality traits",
+    "The Big Five personality traits affect behaviour patterns",
+    "Natural strengths create faster learning and consistency",
+    "Different people require different systems for success",
+    "Self-awareness helps identify suitable habits and careers",
+    "Competing in the wrong environment reduces motivation",
+    "Play games where your strengths give you an advantage",
+    "Explore different paths before specialising deeply",
+    "Long-term mastery requires alignment with personal capability",
+    "Improvement becomes sustainable when effort feels natural",
+    "Talent creates opportunity, but habits determine results"
+  ]
+},
+       {
+  "num": "Ch 19",
+  "title": "The Goldilocks Rule: How to Stay Motivated in Life and Work",
+  "subtitle": "Motivation remains highest when challenges are balanced at the edge of current ability—not too easy and not too difficult. Growth and enjoyment occur when tasks feel challenging yet achievable.",
+  "quote": "\"The greatest threat to success is not failure but boredom, because repetition without challenge slowly destroys motivation.\"",
+  "ideas": [
+    "People stay motivated when tasks match their skill level",
+    "Challenges should feel difficult but achievable",
+    "The Goldilocks Rule explains optimal motivation",
+    "Flow state occurs at the edge of current ability",
+    "Too much difficulty creates anxiety and frustration",
+    "Too little challenge creates boredom and disengagement",
+    "Variety and progression maintain long-term interest",
+    "Professionals maintain routines even when motivation disappears",
+    "Consistency matters more than emotional mood",
+    "Mastery requires repeated exposure to manageable challenges",
+    "Boredom often destroys habits more than failure",
+    "Improvement depends on continuous adaptation and progression",
+    "Successful people continue even during low motivation",
+    "Growth requires balancing comfort and difficulty",
+    "Discipline sustains habits after excitement fades"
+  ]
+},
+        {
+  "num": "Ch 20",
+  "title": "The Downside of Creating Good Habits",
+  "subtitle": "Habits create efficiency, but excessive automation can lead to mindless repetition and stagnation. Continuous reflection and deliberate improvement are necessary for long-term mastery and growth.",
+  "quote": "\"Habits are powerful because they automate behaviour, but true mastery requires conscious reflection and deliberate practice.\"",
+  "ideas": [
+    "Habits reduce mental effort by automating behaviour",
+    "Automation can eventually lead to complacency",
+    "Repeated behaviour without reflection limits improvement",
+    "Deliberate practice is necessary for mastery",
+    "Reflection helps identify weaknesses and opportunities",
+    "Review systems prevent stagnation and decline",
+    "Continuous improvement requires conscious adjustment",
+    "Identity can become limiting when held too rigidly",
+    "Flexibility supports long-term personal growth",
+    "Experts improve by analysing performance carefully",
+    "Mastery requires awareness beyond automatic repetition",
+    "Habits should evolve as goals and identity evolve",
+    "Annual reviews help maintain direction and purpose",
+    "Self-reflection strengthens intentional living",
+    "Long-term growth depends on balancing automation with awareness"
+  ]
+}
+      ]
+    }
+  ]
+}
